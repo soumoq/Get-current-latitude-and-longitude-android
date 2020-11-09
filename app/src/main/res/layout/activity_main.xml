@@ -7,4 +7,16 @@
     android:gravity="center"
     tools:context=".MainActivity">
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/latitude"
+        android:text="abc"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="abc"
+        android:id="@+id/longitude"/>
+
 </LinearLayout>
